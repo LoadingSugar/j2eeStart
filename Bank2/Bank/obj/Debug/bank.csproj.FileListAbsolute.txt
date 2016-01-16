@@ -1,0 +1,9 @@
+E:\c++\bank\bank\bin\Debug\bank.exe
+E:\c++\bank\bank\bin\Debug\bank.exe.config
+E:\c++\bank\bank\obj\Debug\bank.bankmenu.resources
+E:\c++\bank\bank\obj\Debug\bank.login.resources
+E:\c++\bank\bank\obj\Debug\bank.Properties.Resources.resources
+E:\c++\bank\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+E:\c++\bank\bank\obj\Debug\bank.exe
+E:\c++\bank\bank\obj\Debug\bank.pdb
+E:\c++\bank\bank\bin\Debug\bank.pdb

@@ -1,0 +1,10 @@
+D:\项目\Bank\Bank\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\Bank\Bank\Model\bin\Debug\Model.dll
+D:\项目\Bank\Bank\Model\bin\Debug\Model.pdb
+D:\项目\Bank\Bank\Model\obj\Debug\Model.dll
+D:\项目\Bank\Bank\Model\obj\Debug\Model.pdb
+C:\Users\柿民\Desktop\Bank\Bank\Model\bin\Debug\Model.dll
+C:\Users\柿民\Desktop\Bank\Bank\Model\bin\Debug\Model.pdb
+C:\Users\柿民\Desktop\Bank\Bank\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\柿民\Desktop\Bank\Bank\Model\obj\Debug\Model.dll
+C:\Users\柿民\Desktop\Bank\Bank\Model\obj\Debug\Model.pdb

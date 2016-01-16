@@ -1,0 +1,49 @@
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\bin\Release\ATM.exe
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\bin\Release\ATM.pdb
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Choose.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Deposit.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Draw.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.FindUser.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Login.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Registor.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Time_Fine.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.Transfer.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.exe
+C:\Documents and Settings\Administrator\桌面\C#项目ATM 王晓东\C#ATM_小王\ATM\obj\Release\ATM.pdb
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.exe
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.pdb
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\bin\Release\ATM.exe
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\bin\Release\ATM.pdb
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Choose.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Deposit.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Draw.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.FindUser.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Login.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Registor.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Time_Fine.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Transfer.resources
+C:\Documents and Settings\Administrator\桌面\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.csproj.GenerateResource.Cache
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.exe
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.pdb
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\bin\Release\ATM.exe.manifest
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\bin\Release\ATM.application
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\bin\Release\ATM.exe
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\bin\Release\ATM.pdb
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ResolveAssemblyReference.cache
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Choose.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Deposit.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Draw.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.FindUser.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Login.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Properties.Resources.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Registor.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Time_Fine.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.Transfer.resources
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.csproj.GenerateResource.Cache
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.exe.manifest
+E:\编程练习路径\C#项目ATM\C#ATM_小王\ATM\obj\Release\ATM.application

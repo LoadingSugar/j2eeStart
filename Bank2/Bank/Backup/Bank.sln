@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{3523E860-71D0-47F9-94C0-A6570F00A403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{0176B0DA-D135-41E1-9BAF-B219504BE8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control", "Control\Control.csproj", "{9F2211C4-9546-48FA-982C-2E8C6ECFC878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{35F014D3-BB05-42FA-A84B-E81B5539BF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3523E860-71D0-47F9-94C0-A6570F00A403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3523E860-71D0-47F9-94C0-A6570F00A403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3523E860-71D0-47F9-94C0-A6570F00A403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3523E860-71D0-47F9-94C0-A6570F00A403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0176B0DA-D135-41E1-9BAF-B219504BE8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0176B0DA-D135-41E1-9BAF-B219504BE8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0176B0DA-D135-41E1-9BAF-B219504BE8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0176B0DA-D135-41E1-9BAF-B219504BE8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2211C4-9546-48FA-982C-2E8C6ECFC878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2211C4-9546-48FA-982C-2E8C6ECFC878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2211C4-9546-48FA-982C-2E8C6ECFC878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2211C4-9546-48FA-982C-2E8C6ECFC878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F014D3-BB05-42FA-A84B-E81B5539BF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F014D3-BB05-42FA-A84B-E81B5539BF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F014D3-BB05-42FA-A84B-E81B5539BF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F014D3-BB05-42FA-A84B-E81B5539BF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
